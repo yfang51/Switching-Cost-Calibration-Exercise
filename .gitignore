@@ -1,0 +1,11 @@
+# Ignore cache / results
+notebooks/results/
+results/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/switching_cost_simulation.ipynbnotebooks/figures/
